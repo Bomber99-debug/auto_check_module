@@ -1,4 +1,4 @@
-from colorama import Fore
+from colorama_test import Fore
 
 def log_info(message):
     print(f"{Fore.BLUE} [INFO] {Fore.RESET} {message}")

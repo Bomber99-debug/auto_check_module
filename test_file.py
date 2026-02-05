@@ -1,6 +1,6 @@
 import sys, os
 import auto_check_module_2 as au
-from colorama import Fore, Back, Style
+from colorama_test import Fore, Back, Style
 
 
 def main():
